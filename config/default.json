@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mworth55:WORTHsilver55@cluster0-oxhfu.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://mworth55:WORTHsilver55@cluster0-oxhfu.mongodb.net/auth-template",
   "jwtSecret": "sl_myJwtSecret"
 }
